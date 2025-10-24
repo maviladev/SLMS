@@ -9,8 +9,7 @@
   <ItemGroup>
     <Folder Include="Commands\Jugador\" />
     <Folder Include="Mappings\" />
-    <Folder Include="NewFolder\" />
-    <Folder Include="Validators\" />
+    <Folder Include="Queries\Partido\" />
   </ItemGroup>
 
 </Project>

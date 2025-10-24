@@ -7,10 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="Middleware\" />
-    <Folder Include="Extensions\" />
-    <Folder Include="Repositories\Interfaces\" />
+    <Folder Include="Seeders\" />
+    <Folder Include="Services\External\" />
+    <Folder Include="Services\Cache\" />
   </ItemGroup>
 
 </Project>
