@@ -6,7 +6,7 @@ API REST para la gestión de ligas de fútbol desarrollada con .NET Core 9, C#, 
 
 - **Autenticación JWT Bearer**: Sistema de autenticación seguro
 - **Database First**: Enfoque Entity Framework Database First
-- **Arquitectura en Capas**: Separación de responsabilidades (Controllers, Services, Repositories)
+- **Arquitectura Limpia**: Separación de responsabilidades (Controllers, Services, Repositories)
 - **Patrones de Diseño**: Repository Pattern, Service Layer, Dependency Injection
 - **Principios SOLID**: Código mantenible y escalable
 - **Documentación Swagger**: Interfaz de pruebas integrada
